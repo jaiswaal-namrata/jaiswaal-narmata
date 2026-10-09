@@ -1,12 +1,3 @@
-Log in
-Sign up for free
-You said:
-make a repositry in which my name is narmata jaiswaal and i am software engineer . i am complete my btech degree
-
-ChatGPT said:
-I’ll help you create a professional GitHub repository for Narmata Jaiswaal, showcasing you as a Software Engineer who has completed a B.Tech degree. You can use this as your GitHub profile README to introduce yourself to recruiters and companies.
-
-Your GitHub Profile Repository
 Narmata Jaiswaal
 Software Engineer | B.Tech Graduate
 
