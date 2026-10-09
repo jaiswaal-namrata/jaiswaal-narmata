@@ -1,47 +1,21 @@
-Narmata Jaiswaal
-Software Engineer | B.Tech Graduate
-
-GitHub Profile
-Portfolio
-Repository name: NarmataJaiswaal
-
-File name: README.md
-
-Purpose: Personal introduction, technical skills, projects, education, and contact information.
-
-README.md — Your profile content
-Here is a professional template you can add to your repository.
-
-Writing
+# 💫 About Me:
+👋 Hi, I'm Namrata Jaiswal<br>🎓 B.Tech Graduate | Aspiring Data Scientist | Lifelong Learner<br>Welcome to my GitHub profile! 👩‍💻<br><br>I'm Namrata Jaiswal, a B.Tech graduate currently learning Data Science and exploring how data can be transformed into meaningful insights. I'm passionate about technology, analytical thinking, problem-solving, and continuously improving my technical skills.<br><br>My goal is to build a strong foundation in data science, work on real-world projects, and use data-driven approaches to solve practical problems.<br><br>🚀 About Me<br>🎓 B.Tech graduate with an interest in technology and data analytics.<br>📊 Currently learning Data Science and data analysis techniques.<br>🐍 Exploring Python for data manipulation, analysis, and problem-solving.<br>📈 Interested in data visualization, statistics, and machine learning.<br>🧠 Continuously learning new tools, concepts, and technologies.<br>💻 Building projects to strengthen my practical knowledge.<br>🎯 Aspiring to start my career in Data Science and Analytics.<br>🛠️ Skills & Technologies<br>Currently learning and exploring:<br><br>Programming: Python<br>Data Analysis: Pandas, NumPy<br>Data Visualization: Matplotlib, Seaborn<br>Databases: SQL<br>Statistics: Descriptive statistics and probability<br>Machine Learning: Fundamental concepts and algorithms<br>Tools: Jupyter Notebook, Google Colab, Git, GitHub<br>I'll continue updating this section as I develop my skills and gain hands-on experience.<br><br>📚 My Learning Journey<br>I'm focusing on developing practical skills in:<br><br>Python programming and data structures<br>Data cleaning and preprocessing<br>Exploratory Data Analysis (EDA)<br>Data visualization and interpretation<br>Statistical analysis<br>SQL queries and database fundamentals<br>Machine learning fundamentals<br>Real-world data science projects
 
 
-Hi, I'm Narmata Jaiswaal 👋
-💻 Software Engineer | B.Tech Graduate
-Welcome to my GitHub profile!
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=jaiswaal-namrata&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=jaiswaal-namrata&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaiswaal-namrata&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm Narmata Jaiswaal, a Software Engineer and B.Tech graduate passionate about technology, software development, and solving real-world problems through code.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🚀 About Me
-🎓 Completed my B.Tech degree.
-💻 Interested in software engineering and application development.
-🌱 Always eager to learn new technologies and improve my skills.
-🛠️ Enjoy building projects and exploring innovative solutions.
-🎯 Aspiring to contribute to impactful software projects.
-🧰 Technical Skills
-Programming Languages: Add your programming languages here.
-Web Development: Add your web development skills here.
-Tools: Git, GitHub, VS Code.
-Core Concepts: Data Structures, Algorithms, Object-Oriented Programming.
-🎓 Education
-Bachelor of Technology (B.Tech)
-Add your branch, college name, and graduation year here.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaal-namrata&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-📂 Featured Projects
-Project 1: Add your project name and description.
-Project 2: Add your project name and description.
-Project 3: Add your project name and description.
-📫 Connect With Me
-GitHub: https://github.com/YOUR-USERNAME
-LinkedIn: Add your LinkedIn profile URL.
-Email: Add your professional email address.
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+---
+[![](https://komarev.com/ghpvc/?username=jaiswaal-namrata&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
